@@ -43,3 +43,5 @@ npm run build      # compile to dist/
 npm test           # run tests
 npm run typecheck  # type-check only
 ```
+
+<!-- cache check 2026-10-20 -->
